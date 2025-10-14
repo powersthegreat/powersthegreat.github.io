@@ -1,6 +1,1 @@
-Thanks for downloading this template!
-
-Template Name: MyResume
-Template URL: https://bootstrapmade.com/free-html-bootstrap-template-my-resume/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+This repository contains the source code for my personal portfolio website. It was developed using a Bootstrap-based HTML/CSS framework and enhanced with a variety of custom design elements generated through AI-assisted web design tools. Feel free to clone if you like the template!
